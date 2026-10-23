@@ -1,0 +1,8 @@
+fake_useragent==2.2.0
+itemadapter==0.13.1
+python-dotenv==1.2.4
+Requests==2.34.2
+rich==15.0.0
+scrapy==2.19.0
+scrapy_playwright==0.0.48
+
